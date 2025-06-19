@@ -53,6 +53,7 @@ npm install
 npm run dev
 
 
+
 🎯 Objetivo del proyecto
 Este proyecto fue realizado como parte de mi formación práctica siguiendo un tutorial de freeCodeCamp. Me permitió:
 
@@ -65,10 +66,11 @@ Familiarizarme con herramientas modernas como Vite
 Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
 
 
+
 🧑‍💻 Autor
 Enzo Hernán Segovia
 📍 Argentina
-💼 Desarrollador Web en formación
+💼 Software Developer en formación
 
 
 
