@@ -36,23 +36,6 @@ El proyecto está organizado en carpetas según buenas prácticas, lo que facili
 
 ---
 
-## 🛠 Cómo ejecutar el proyecto
-
-### 1. Clonar el repositorio
-
-git clone https://github.com/GitHubestudio/calculadora-basica/
-
-cd calculadora-react
-
-### 2. Instalar dependencias
-
-npm install
-
-### 3. Iniciar servidor de desarrollo
-
-npm run dev
-
----
 
 # 🎯 Objetivo del proyecto
 
