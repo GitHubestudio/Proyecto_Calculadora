@@ -45,13 +45,13 @@ El proyecto está organizado en carpetas según buenas prácticas, lo que facili
 
 Este proyecto fue realizado como parte de mi formación práctica siguiendo un tutorial de freeCodeCamp. Me permitió:
 
-Aplicar conceptos de React como componentes, props y estado
+- Aplicar conceptos de React como componentes, props y estado
 
-Practicar diseño modular y separación de responsabilidades
+- Practicar diseño modular y separación de responsabilidades
 
-Familiarizarme con herramientas modernas como Vite
+- Familiarizarme con herramientas modernas como Vite
 
-Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
+- Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
 
 ---
 
