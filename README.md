@@ -35,3 +35,50 @@ El proyecto está organizado en carpetas según buenas prácticas, lo que facili
 - Diseño responsive y limpio
 
 ---
+
+## 🛠 Cómo ejecutar el proyecto
+
+### 1. Clonar el repositorio
+
+git clone https://github.com/GitHubestudio/calculadora-basica/
+
+cd calculadora-react
+
+### 2. Instalar dependencias
+
+npm install
+
+### 3. Iniciar servidor de desarrollo
+
+npm run dev
+
+
+🎯 Objetivo del proyecto
+Este proyecto fue realizado como parte de mi formación práctica siguiendo un tutorial de freeCodeCamp. Me permitió:
+
+Aplicar conceptos de React como componentes, props y estado
+
+Practicar diseño modular y separación de responsabilidades
+
+Familiarizarme con herramientas modernas como Vite
+
+Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
+
+
+🧑‍💻 Autor
+Enzo Hernán Segovia
+📍 Argentina
+💼 Desarrollador Web en formación
+
+
+
+
+
+
+
+
+
+
+
+
+
