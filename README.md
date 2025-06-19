@@ -55,11 +55,12 @@ Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
 
 ---
 
-# 🧑‍💻 Autor
+# 🧑‍💻 Autor Enzo Hernán Segovia
 
-Enzo Hernán Segovia
+
 📍 Argentina
-💼 Software Developer en formación
+
+💼 Software Developer en formación / Técnico Universitario en Programación
 
 
 
