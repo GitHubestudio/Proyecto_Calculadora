@@ -4,6 +4,9 @@ Una calculadora funcional desarrollada con **React** y **JavaScript**, como part
 Aplicación construida con **Vite**, una herramienta moderna de desarrollo frontend que ofrece recarga rápida, compatibilidad con módulos ES y una configuración mínima.  
 El proyecto aplica un enfoque de componentes reutilizables, separación de responsabilidades y buenas prácticas en React. Permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división desde una interfaz limpia y dinámica.
 
+![Captura de pantalla 2025-06-19 190342](https://github.com/user-attachments/assets/35b3bf14-0412-430d-9ba4-6a7d5233ee1a)
+
+
 ---
 
 ## 🚀 Tecnologías utilizadas
