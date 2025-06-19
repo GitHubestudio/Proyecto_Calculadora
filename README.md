@@ -1,7 +1,8 @@
 # 🧮 Calculadora React
 
-Una calculadora funcional desarrollada con **React** y **JavaScript**, como parte de un proyecto educativo de [freeCodeCamp](https://www.freecodecamp.org/).
-Este proyecto fue construido utilizando **Vite**, una herramienta moderna de desarrollo frontend que ofrece recarga rápida, compatibilidad con módulos ES y una configuración mínima.
+Una calculadora funcional desarrollada con **React** y **JavaScript**, como parte de un proyecto educativo de [freeCodeCamp](https://www.freecodecamp.org/).  
+Aplicación construida con **Vite**, una herramienta moderna de desarrollo frontend que ofrece recarga rápida, compatibilidad con módulos ES y una configuración mínima.  
+El proyecto aplica un enfoque de componentes reutilizables, separación de responsabilidades y buenas prácticas en React. Permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división desde una interfaz limpia y dinámica.
 
 ---
 
