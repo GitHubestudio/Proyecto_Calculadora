@@ -52,9 +52,10 @@ npm install
 
 npm run dev
 
+---
 
+# 🎯 Objetivo del proyecto
 
-🎯 Objetivo del proyecto
 Este proyecto fue realizado como parte de mi formación práctica siguiendo un tutorial de freeCodeCamp. Me permitió:
 
 Aplicar conceptos de React como componentes, props y estado
@@ -65,9 +66,10 @@ Familiarizarme con herramientas modernas como Vite
 
 Consolidar habilidades en JavaScript aplicadas al desarrollo de interfaces
 
+---
 
+# 🧑‍💻 Autor
 
-🧑‍💻 Autor
 Enzo Hernán Segovia
 📍 Argentina
 💼 Software Developer en formación
