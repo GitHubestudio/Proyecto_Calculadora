@@ -19,24 +19,7 @@ Este proyecto fue construido utilizando **Vite**, una herramienta moderna de des
 
 El proyecto está organizado en carpetas según buenas prácticas, lo que facilita la escalabilidad y el mantenimiento del código.
 
-src/
-│
-├── componentes/ # Componentes reutilizables
-│ ├── Boton.jsx
-│ ├── BotonClear.jsx
-│ └── Pantalla.jsx
-│
-├── hojas-de-estilo/ # Estilos separados por componente
-│ ├── Boton.css
-│ ├── BotonClear.css
-│ └── Pantalla.css
-│
-├── imagenes/ # Recursos gráficos
-│ └── FreeCodeCamp_logo.svg
-│
-├── App.jsx # Componente principal
-├── main.jsx # Punto de entrada de React
-└── App.css # Estilos generales
+
 ![image](https://github.com/user-attachments/assets/c1113730-ea78-4065-b0c4-f788720d3b07)
 
 
