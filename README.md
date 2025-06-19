@@ -37,6 +37,7 @@ src/
 ├── App.jsx # Componente principal
 ├── main.jsx # Punto de entrada de React
 └── App.css # Estilos generales
+![image](https://github.com/user-attachments/assets/c1113730-ea78-4065-b0c4-f788720d3b07)
 
 
 ✅ Esta organización permite trabajar cada componente de forma aislada y reutilizable, lo que refleja un enfoque profesional de desarrollo frontend.
